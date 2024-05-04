@@ -6,4 +6,5 @@ Solidity Practice
 
 List of Projects:
 
-50.  Piggy Bank - A app that allows anyone to deposit into the contract. Only the owner can withdraw from the balance; after which the contract selfdestructs.  
+50.  Piggy Bank - A app that allows anyone to deposit into the contract. Only the owner can withdraw from the balance; after which the contract selfdestructs. (selfdestruct is deprecated*)
+     
