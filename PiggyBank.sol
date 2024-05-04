@@ -2,7 +2,7 @@
 pragma solidity ^0.8.7;
 
 contract PiggyBank {
-    // Events
+    // Events //
     event Receive(uint amount);
     event Withdraw(uint amount);
 
