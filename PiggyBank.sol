@@ -20,8 +20,6 @@ contract PiggyBank {
 
     /**
      * @dev function that withdraws all the ether deposited into the contract
-     * @param -- no parameter given
-     * @return does not return any value
      */
     function withdraw() external {
         require(msg.sender == owner, "Not Owner");
