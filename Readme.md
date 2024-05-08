@@ -6,10 +6,15 @@ Solidity Practice
 
 List of Projects:
 
-50.  Piggy Bank - A app that allows anyone to deposit into the contract. Only the owner can withdraw from the balance; after which the contract selfdestructs. (selfdestruct is deprecated*)  
-    Link: `https://youtu.be/Geio70-SfSE?si=JwAn7xII4s1E2iBk`
 51.  ERC20 - A contract that implements the ERC20 standard using an ERC20 interface.  
     Link: `https://youtu.be/gwn1rVDuGL0?si=KIwdgt4__5HE5ap6`
+    
+52.  Piggy Bank - A app that allows anyone to deposit into the contract. Only the owner can withdraw from the balance; after which the contract selfdestructs. (selfdestruct is deprecated*)  
+    Link: `https://youtu.be/Geio70-SfSE?si=JwAn7xII4s1E2iBk`
+
+53. Multi Signauture Wallet - A wallet that allow multiple users have custody of the wallet.
+    Link: `https://youtu.be/8ja72g_Dac4?si=lg6T_8fMos0e9aZ9`
+
     
 
      
