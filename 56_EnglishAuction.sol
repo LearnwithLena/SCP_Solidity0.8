@@ -5,7 +5,6 @@ interface IERC721 {
     function transferFrom(address _from, address _to, uint nftId) external;
 }
 
-
 contract EnglishAuction{
     // Events //
     event Start();
